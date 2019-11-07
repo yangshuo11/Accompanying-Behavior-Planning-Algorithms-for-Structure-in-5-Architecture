@@ -1,0 +1,11 @@
+naoIP = "127.0.0.1"
+naoPort = 10086
+naoPort=int(naoPort)
+
+X_LEN = 640.0
+Y_LEN = 480.0
+BALL_SIZE = 0.3
+BALL_PIXEL = 240
+
+CAMERA_HEIGHT = [0.523, 0.477]
+VIEW_WEIGHT = [60.97, 47.64]
